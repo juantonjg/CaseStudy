@@ -171,8 +171,6 @@
 
 Due to the amount of content, the summary is too large to post on GitHub; a .PNG file has to do.
 
-<details>
-
 # In The End
 Per stakeholder request: 
 * We downloaded, cleaned, sorted, and converted the CSV files with no error values allowed
