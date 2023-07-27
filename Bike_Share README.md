@@ -1,4 +1,4 @@
-# The Excel Process - From Dirty to Clean:                                       
+# The Excel Process - From Dirty to Clean:                                     
 
 *Google Sheets won't open files of these sizes. Excel is your only option to open the data. The instructions for Google Sheets are unfortunately pointless:*
 
